@@ -1,4 +1,4 @@
-package ru.bulgakov.pages;
+package ru.bulgakov.mentor.pages;
 import com.codeborne.selenide.SelenideElement;
 import java.io.File;
 import static com.codeborne.selenide.Condition.text;

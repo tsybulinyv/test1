@@ -1,13 +1,9 @@
-package ru.bulgakov.qa;
+package ru.bulgakov.mentor.qa;
 
 import com.codeborne.selenide.Configuration;
 import org.junit.jupiter.api.Test;
-import ru.bulgakov.pages.*;
+import ru.bulgakov.mentor.pages.*;
 
-import java.io.File;
-
-import static com.codeborne.selenide.Condition.text;
-import static com.codeborne.selenide.Condition.visible;
 import static com.codeborne.selenide.Selenide.*;
 
 public class SearchTest {
